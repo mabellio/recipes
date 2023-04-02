@@ -1,0 +1,46 @@
+{
+    "name" : "Granola",
+    "instructions" : "Thoroughly mix the brown sugar, maple syrup, oil, and salt. Then add the other ingredients and thoroughly mix together.",
+    "ingredients" : [
+        {
+            "amount" : 30,
+            "units" : {"g" : {} },
+            "name" : "Brown Sugar"
+        },
+        {
+            "amount" : 30,
+            "units" : {"g" : {} },
+            "name" : "Maple Syrup"
+        },
+        {
+            "amount" : 15,
+            "units" : {"g" : {} },
+            "name" : "Oil"
+        },
+        {
+            "amount" : 0.25,
+            "units" : {"tsp" : {} },
+            "name" : "Salt"
+        },
+        {
+            "amount" : 140,
+            "units" : {"g" : {} },
+            "name" : "Oats"
+        },
+        {
+            "amount" : 30,
+            "units" : {"g" : {} },
+            "name" : "Nuts and Seeds"
+        },
+        {
+            "amount" : 40,
+            "units" : {"g" : {} },
+            "name" : "Dried Fruit"
+        },
+        {
+            "amount" : 20,
+            "units" : {"g" : {} },
+            "name" : "Coconut"
+        }
+    ]
+}
