@@ -1,0 +1,16 @@
+{
+    "name" : "Sugar Icing",
+    "instructions" : "Whisk together ingredients in a bowl.",
+    "ingredients" : [
+        {
+            "amount" : 80,
+            "units" : {"g" : {} },
+            "name" : "Powdered Sugar"
+        },
+        {
+            "amount" : 20,
+            "units" : {"g" : {} },
+            "name" : "Milk"
+        }
+    ]
+}
