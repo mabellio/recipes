@@ -18,7 +18,7 @@
             "name" : "Oil"
         },
         {
-            "amount" : 0.25,
+            "amount" : 1/4,
             "units" : {"tsp" : {} },
             "name" : "Salt"
         },
