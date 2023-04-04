@@ -3,43 +3,35 @@
     "instructions" : "Thoroughly mix the brown sugar, maple syrup, oil, and salt. Then add the other ingredients and thoroughly mix together.",
     "ingredients" : [
         {
-            "amount" : 30,
-            "units" : {"g" : {} },
+            "amount" : "30g",
             "name" : "Brown Sugar"
         },
         {
-            "amount" : 30,
-            "units" : {"g" : {} },
+            "amount" : "30g",
             "name" : "Maple Syrup"
         },
         {
-            "amount" : 15,
-            "units" : {"g" : {} },
+            "amount" : "15g",
             "name" : "Oil"
         },
         {
-            "amount" : 1/4,
-            "units" : {"tsp" : {} },
+            "amount" : "1/4 tsp",
             "name" : "Salt"
         },
         {
-            "amount" : 140,
-            "units" : {"g" : {} },
+            "amount" : "140g",
             "name" : "Oats"
         },
         {
-            "amount" : 30,
-            "units" : {"g" : {} },
+            "amount" : "30g",
             "name" : "Nuts and Seeds"
         },
         {
-            "amount" : 40,
-            "units" : {"g" : {} },
+            "amount" : "40g",
             "name" : "Dried Fruit"
         },
         {
-            "amount" : 20,
-            "units" : {"g" : {} },
+            "amount" : "20g",
             "name" : "Coconut"
         }
     ]
