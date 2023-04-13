@@ -2,37 +2,13 @@
     "name" : "Granola",
     "instructions" : "Thoroughly mix the brown sugar, maple syrup, oil, and salt. Then add the other ingredients and thoroughly mix together. Spread out the mixture on a sheet pan and bake at 250F for 30 minutes.",
     "ingredients" : [
-        {
-            "amount" : "30g",
-            "name" : "Brown Sugar"
-        },
-        {
-            "amount" : "30g",
-            "name" : "Maple Syrup"
-        },
-        {
-            "amount" : "15g",
-            "name" : "Oil"
-        },
-        {
-            "amount" : "1/4 tsp",
-            "name" : "Salt"
-        },
-        {
-            "amount" : "140g",
-            "name" : "Oats"
-        },
-        {
-            "amount" : "30g",
-            "name" : "Nuts and Seeds"
-        },
-        {
-            "amount" : "40g",
-            "name" : "Dried Fruit"
-        },
-        {
-            "amount" : "20g",
-            "name" : "Coconut"
-        }
+        "30g Brown Sugar",
+        "30g Maple Syrup",
+        "15g Oil",
+        "1/4 tsp Salt",
+        "140g Oats",
+        "30g Nuts and Seeds",
+        "40g Dried Fruit",
+        "20g Coconut"
     ]
 }
