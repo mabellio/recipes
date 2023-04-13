@@ -2,13 +2,7 @@
     "name" : "Sugar Icing",
     "instructions" : "Whisk ingredients together in a bowl until well combined.",
     "ingredients" : [
-        {
-            "amount" : "80g",
-            "name" : "Powdered Sugar"
-        },
-        {
-            "amount" : "20g",
-            "name" : "Milk"
-        }
+        "80g Powdered Sugar",
+        "20g Milk"
     ]
 }
