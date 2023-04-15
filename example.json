@@ -1,8 +1,7 @@
 {
   "name": "example",
   "ingredients": [
-    "1 first ingredient",
-    "2 second ingredient"
+    "1 first ingredient"
   ],
   "instructions": "make it."
 }
